@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "FreshMvvm": "2.2.4",
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
+    "NETStandard.Library": "2.0.1",
+    "PropertyChanged.Fody": "2.4.0",
+    "Xamarin.Forms": "2.5.1.444934"
+  },
+  "frameworks": {
+    "netstandard1.5": {}
+  }
+}
